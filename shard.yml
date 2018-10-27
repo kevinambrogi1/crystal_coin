@@ -1,0 +1,17 @@
+name: crystal_coin
+version: 0.1.0
+
+authors:
+  - Kevin Ambrogi <kevinambrogi@hotmail.com>
+
+targets:
+  crystal_coin:
+    main: src/crystal_coin.cr
+
+crystal: 0.26.1
+
+license: MIT
+
+dependencies:
+  openssl:
+    github: datanoise/openssl.cr
