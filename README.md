@@ -25,3 +25,4 @@ TODO: Write development instructions here
 ## Contributors
 
 - [your-github-user](https://github.com/your-github-user) Kevin Ambrogi - creator, maintainer
+# crystal_coin
