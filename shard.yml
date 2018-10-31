@@ -15,3 +15,7 @@ license: MIT
 dependencies:
   openssl:
     github: datanoise/openssl.cr
+  amber:
+    github: amberframework/amber
+  kemal:
+    github: kemalcr/kemal
